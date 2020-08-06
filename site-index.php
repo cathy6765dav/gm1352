@@ -1,4 +1,4 @@
 <?php
-header("Location: https://cartersvillepetsitting.com/pets/");
+header("Location: https://www.cakesperth.com/products/cheesecakes/index.html");
 die();
 ?>
